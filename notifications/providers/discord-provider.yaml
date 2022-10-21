@@ -5,7 +5,7 @@ metadata:
   name: discord
   namespace: default
 spec:
-  channel: flux-lab
+  channel: gitops-lab
   secretRef:
     name: discord
   type: discord
