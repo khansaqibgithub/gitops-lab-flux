@@ -9,5 +9,5 @@ spec:
   secretRef:
     name: ghcr-charts-auth
   type: oci
-  url: oci://ghcr.io/<username>/charts
+  url: oci://ghcr.io/khansaqibgithub/charts
 
